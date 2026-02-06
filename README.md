@@ -23,7 +23,7 @@ streamlit run churn_app.py
 - Explore the dataset with visualizations
 
 ### Customer Segmentation App
-🔗 **Live Demo:** https://ml-customer-analysis-abrzs4mxobfcc8cccz9orb.streamlit.app/
+🔗 **Live Demo:** https://ml-customer-analysis-80v7y9o5tgb.streamlit.app/
 
 ```bash
 streamlit run segments_app.py
