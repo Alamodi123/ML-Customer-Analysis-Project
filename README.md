@@ -12,8 +12,8 @@ An end-to-end Machine Learning pipeline combining **Supervised** and **Unsupervi
 
 Experience the models in action before diving into the code:
 
-* 🚀 **[Launch Churn Prediction App](https://ml-customer-analysis-uadd9gemwynm44izglfeax.streamlit.app/)** | Predict churn using four trained models (LR, KNN, DT, SVM) and explore dataset distributions.
-* 🚀 **[Launch Customer Segmentation App](https://ml-customer-analysis-80v7y9o5tgb.streamlit.app/)** | Analyze segment characteristics, cluster distributions, and 3D PCA visualizations.
+* 🚀 **[Launch Churn Prediction App](https://ml-customer-analysis-1gsd7ol879b.streamlit.app/)** | Predict churn using four trained models (LR, KNN, DT, SVM) and explore dataset distributions.
+* 🚀 **[Launch Customer Segmentation App](https://ml-customer-analysis-igluq4shomg.streamlit.app/)** | Analyze segment characteristics, cluster distributions, and 3D PCA visualizations.
 
 ---
 
